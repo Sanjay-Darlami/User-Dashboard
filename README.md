@@ -60,7 +60,7 @@ To get started with **User Dashboard**, follow these steps:
 2. **Navigate into the project directory:**
 
     ```bash
-    cd repository
+    cd User-Dashboard
     ```
 
 3. **Install dependencies:**
