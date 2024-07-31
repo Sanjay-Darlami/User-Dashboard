@@ -1,16 +1,76 @@
-# demo_project
+# User Dashboard
 
-A new Flutter project.
+**User Dashboard** is a comprehensive app for viewing and managing user profiles, their content, and todos. It provides a seamless experience for exploring user-related data and handling tasks.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **View User Profiles:** Browse a list of users with key information and easily navigate through their profiles.
+  
+- **Explore User Content:** Dive into each user's posts, albums, and photos. Each section is neatly organized for a seamless experience:
+  - **Posts:** Access and view all posts created by a user.
+  - **Albums:** Browse through the user's albums and explore associated photos.
+  - **Photos:** View detailed images from each album.
+  
+- **Manage Todos:** Effortlessly handle tasks with a full suite of todo management features, including:
+  - **Add:** Create new tasks and track them effectively.
+  - **Delete:** Remove tasks that are no longer needed.
+  - **Update:** Modify existing tasks to reflect current statuses and priorities.
 
-A few resources to get you started if this is your first Flutter project:
+## Packages Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **provider:** A state management solution for Flutter applications.
+- **shared_preferences:** Used for caching.
+- **http:** Future-based API for HTTP requests.
+- **cached_network_image:** Load and cache network images.
+- **shimmer:** Add a shimmer effect for loading widgets.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+- **User List:**
+  
+  ![User List](lib/screenshots/user_list.jpg)
+
+- **User Post List:**
+  
+  ![User Post List](lib/screenshots/user_posts_list.jpg)
+
+- **User Album List:**
+  
+  ![User Album List](lib/screenshots/user_albums_list.jpg)
+
+- **Album's Photo List:**
+  
+  ![Album's Photo List](lib/screenshots/album_photo_list.jpg)
+
+- **User Todos List:**
+  
+  ![User Todos List](lib/screenshots/user_todos_list.jpg)
+
+## Installation
+
+To get started with **User Dashboard**, follow these steps:
+
+1. **Clone the repository:**
+
+    ```bash
+    git clone git@github.com:Sanjay-Darlami/User-Dashboard.git
+    ```
+
+2. **Navigate into the project directory:**
+
+    ```bash
+    cd repository
+    ```
+
+3. **Install dependencies:**
+
+    ```bash
+    flutter clean
+    flutter pub get
+    ```
+
+4. **Run the application:**
+
+    ```bash
+    flutter run
+    ```
