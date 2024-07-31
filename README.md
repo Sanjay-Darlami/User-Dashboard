@@ -28,23 +28,24 @@
 
 - **User List:**
   
-  ![User List](lib/screenshots/user_list.jpg)
+  ![User List](https://github.com/Sanjay-Darlami/User-Dashboard/raw/main/screenshots/user_list.jpg)
 
 - **User Post List:**
   
-  ![User Post List](lib/screenshots/user_posts_list.jpg)
+  ![User Post List](https://github.com/Sanjay-Darlami/User-Dashboard/raw/main/screenshots/user_posts_list.jpg)
 
 - **User Album List:**
   
-  ![User Album List](lib/screenshots/user_albums_list.jpg)
+  ![User Album List](https://github.com/Sanjay-Darlami/User-Dashboard/raw/main/screenshots/user_albums_list.jpg)
 
 - **Album's Photo List:**
   
-  ![Album's Photo List](lib/screenshots/album_photo_list.jpg)
+  ![Album's Photo List](https://github.com/Sanjay-Darlami/User-Dashboard/raw/main/screenshots/album_photo_list.jpg)
 
 - **User Todos List:**
   
-  ![User Todos List](lib/screenshots/user_todos_list.jpg)
+  ![User Todos List](https://github.com/Sanjay-Darlami/User-Dashboard/raw/main/screenshots/user_todos_list.jpg)
+  
 
 ## Installation
 
